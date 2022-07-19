@@ -17,7 +17,10 @@ dependencies:
      - numpy
      - pandas
      - matplotlib
-     - scikit-learn
+     - threadpoolctl
      - scipy
+     - joblib
+     - scikit-learn
+     
    
      
